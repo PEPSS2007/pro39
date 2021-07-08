@@ -35,7 +35,7 @@ function setup() {
   ground.visible=false
   foodGroup = new Group(); 
   obstaclesGroup = new Group();
-  gameState=PLAY
+  
 
   score = 0;
  
